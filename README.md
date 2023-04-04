@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Basic customer club
+
+Calculate user points here.
+
+![App screenshot](public/screenshot.png "Customer club")
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
