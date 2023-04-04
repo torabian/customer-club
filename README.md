@@ -1,4 +1,4 @@
-# Basic customer club
+# Zero dependency customer club
 
 Calculate user points here.
 
